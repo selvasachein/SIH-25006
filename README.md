@@ -46,11 +46,7 @@ Agriculture, FoodTech & Rural Development
 <li>How it addresses the problem</li>
 <li>Innovation and uniqueness of the solution</li></ul>
 
-## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+## Technical Approaches/ working prototype)</b></li></ul>
 
 ## Feasibility and Viability
 <h3>Remove These Lines</h3>
