@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:23/09/25
+## Register Number:25008132
+## Name:Dharshan Babu.A
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,43 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+We propose a Smart Crop Companion—a mobile-first, AI-driven advisory platform that speaks the farmer’s language, understands their soil, and predicts their challenges. It will combine satellite data, weather APIs, and farmer inputs to deliver hyper-local recommendations. The app will be designed for simplicity, with voice support and offline capabilities to ensure accessibility in remote areas.
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+- Languages & Tools: Python (AI), React Native (App), Firebase (Backend), OpenCV (Image Analysis)
+- Modules:
+- Crop Recommendation Engine
+- Pest Detection via Image Upload
+- Weather Alert System
+- Market Price Tracker
+- Voice Assistant (Regional Language Support)
+- Process Flow:
+- Farmer inputs basic data (location, crop history)
+- App fetches weather and soil data
+- AI engine generates advisory
+- Farmer receives voices/text guidance
+- Feedback loop refines future suggestions
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+ - Feasibility: High, due to mobile penetration and existing tech stack
+- Challenges: Language diversity, data accuracy, digital literacy
+- Mitigation:
+- Regional language support
+- Community onboarding via NGOs
+- Offline mode for low-connectivity zones
 
-## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Impact & Benefits
+- Social: Empowers farmers with knowledge and confidence
+- Economic: Boosts productivity, reduces input costs
+- Environmental: Promotes sustainable practices and reduces chemical overuse
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+Research & References
+- NABARD Report 2022
+- FAO ICT in Agriculture Studies
+- Indian Meteorological Department APIs
+ 
+
+ 
+ 
