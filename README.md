@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:23-09-2025
+## Register Number:25012185
+## Name:S.Rohith
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,24 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<p>  We have to educate farmers about the soil,water,plants typrs and there needs etc... but we can't educate every farmers by going directly and telling about this and all,so we can use a ai technology to educate them freely and efficiently. Using ai not only we can educate them but we can also clear their doubts.This idea also came to many of the programmers and one of them created a ai technology called Agri-Sahayak to slove these problem .Its a multilingual ,AI powered advisory platform designed to help small farmers by educating and clarifying theri doubts.it also has voice command to be used even by a low-literate users.it can also tell what disease the plant has and halp you to cure the disease. this AI is spcialized  to check the soil if it is ok to plant the seeds in it,or it can also tell you what type of seed you can plant in that soil.you can upload images to check wheather the plant is growing goood or not.Through this even a small framer can farm and get good yeilds.</p>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<p>Technologies used here are combined AI/ML model,mobile app development,and Iot integeration</p>
+<h4>the Method used to support samll farmers is given as flow chart</h4>
+
+<img>![WhatsApp Image 2025-09-24 at 10 03 53_c7dc3d45](https://github.com/user-attachments/assets/cd45e625-d482-443b-b4e2-ace7408eb0ba)
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+
+<p>While developing a smart crop advisory system for small farmers is a great idea, it faces significant feasibility challenges. A key challenge is the digital divide, where many small farmers lack smartphones, reliable internet access, or the digital literacy needed to use a complex app. Another major risk is the accuracy and hyper-localization of data. The system's recommendations heavily depend on precise, real-time data for specific fields, which can be hard to collect and model accurately across diverse microclimates and soil types. Additionally, there are data privacy concerns, as farmers may be hesitant to share sensitive information about their land and practices. Overcoming these hurdles requires a multi-pronged approach. To address the digital divide, the solution should include low-tech alternatives like SMS-based alerts or a voice-based IVR system. To improve data accuracy, the system could incorporate community-based data collection where local agricultural officers or trusted community members help verify and input data. Finally, to build trust and address privacy, the platform must have robust data security measures and transparent policies on how farmer data is used, ensuring it only serves to provide better advisories. By proactively addressing these challenges, the project can increase its chances of successful implementation and genuine impact.</p>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+
+<p> Using this ai samll farmers can survive in this world.Even pepole in house can use this ai to grow household plant.Can get more yeild compared to wwhat they get without knowing how to even plant seeds.
+Because of getting more yeilds the price of the veggies and fruits decrease,so that people will begin to buy more veggies and fruits.Using ai and following its instruction can reduce usage of fertilizers 
+and pesticides making the plant healthy .Therefore heakth of the people will increase who eat these healthy products,if people become healthier the nation's death and disease rate will began to decrease. </p>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+
+<p>Google(https://google.com/)</p>
